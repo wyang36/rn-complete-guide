@@ -51,7 +51,6 @@ const styles = StyleSheet.create({
     width: "60%"
   },
   button: {
-    marginHorizontal: 10,
     width: 100
   }
 });
